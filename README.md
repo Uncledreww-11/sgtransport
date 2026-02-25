@@ -11,6 +11,8 @@ An AI-powered Singapore transport route recommender built with Google Gemini ADK
 
 All results are compiled into a comparison table with a recommended best route.
 
+![Screenshot](screenshot.png)
+
 ## Tech Stack
 
 - **[Google Gemini ADK](https://github.com/google/adk-python)** — Multi-agent orchestration with Gemini 2.5 Flash
